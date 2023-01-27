@@ -3,3 +3,4 @@ bye
 there
 bi
 new
+kaku
