@@ -12,3 +12,4 @@ plswork
 yay
 conflict
 res
+kaku
