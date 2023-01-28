@@ -16,3 +16,4 @@ kaku
 ddfdf
 import turtle
 import lib
+import other lib
