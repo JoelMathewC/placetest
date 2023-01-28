@@ -14,4 +14,4 @@ conflict
 res
 kaku
 ddfdf
-import turtle
+import lib
