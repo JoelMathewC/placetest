@@ -14,3 +14,4 @@ conflict
 res
 kaku
 ddfdf
+import turtle
