@@ -15,4 +15,4 @@ res
 kaku
 ddfdf
 import turtle
-hhhhh
+hhhhhiij
