@@ -1,0 +1,16 @@
+name: exec
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  test-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install turtle
+      - run: python test.py
