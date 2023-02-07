@@ -5,8 +5,8 @@ Turtle()
 
 bgcolor('black') 
 x = 1 
-speed(0) 
-while x < 400: 
+speed(1000) 
+while x < 200: 
   
  r = random.randint(0,255) 
  g = random.randint(0,255)  
@@ -17,5 +17,3 @@ while x < 400:
  fd(50 + x) 
  rt(90.991) 
  x = x+1 
-  
-exitonclick() 
